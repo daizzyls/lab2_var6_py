@@ -332,7 +332,7 @@ class Rabota:
             logger.error(f"Ошибка извлечения базовой информации: {e}")
             return None
 
-    async def parse_vacancies(self, pages_to_parse: int = 3):
+    async def parse_vacancies(self, pages_to_parse: int = 1):
     
         all_vacancies = []
 
