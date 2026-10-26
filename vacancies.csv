@@ -1,51 +1,51 @@
-﻿title,company,salary,city,link,description,key_skills,rating
-PHP-разработчик,Альфа-Деньги,Не указана,Москва,https://hh.ru/vacancy/138795968,,[],4.9
-Ведущий фронтенд-разработчик (Frontend developer),Frank RG,Не указана,"Москва, р-н Хорошёвский",https://hh.ru/vacancy/138762379,,"['TypeScript', 'React', 'Next.js', 'Docker', 'ORACLE', 'PostgreSQL', 'Ember.js', 'Go', 'Git', 'Linux']",4.4
-C#/.NET-разработчик,Sette,Не указана,Москва,https://hh.ru/vacancy/138853883,,"['.NET Framework', 'Kafka', 'ASP.NET', 'Разработка ПО', 'Entity Framework', 'С#', 'PostgreSQL', 'T-SQL']",4.5
-Фронт энд разработчик (Frontend),ООО ГрандТитул,Не указана,Химки,https://hh.ru/vacancy/138610009,,"['JavaScript', 'Git', 'Bootstrap', 'PHP', 'CSS3']",2.9
-Middle Python backend developer (FastAPI),ООО РА Дельта,Не указана,Москва,https://hh.ru/vacancy/138848446,,"['PostgreSQL', 'MySQL', 'Redis', 'MongoDB', 'Flask', 'Scrum', 'REST', 'Kubernetes', 'Docker', 'InfluxDB', 'Jenkins', 'Git', 'FastAPI']",4.3
-.NET разработчик,ПЭК / Офис,Не указана,Москва,https://hh.ru/vacancy/138556157,,"['SQL', 'Git', '.NET', 'AI', 'С#']",4.0
-Java-разработчик,ООО ВебРайз,Не указана,Москва,https://hh.ru/vacancy/138658587,,"['Java', 'SQL', 'Spring Framework', 'PostgreSQL', 'Apache Kafka', 'REST API', 'JSON API']",
-Middle Python разработчик,ООО Техностар,Не указана,Санкт-Петербург,https://hh.ru/vacancy/138836368,,"['OpenCV', 'Python', 'FastAPI', 'Redis', 'PostgreSQL']",3.1
-Java-разработчик,Utrace,Не указана,"Москва, р-н Южнопортовый",https://hh.ru/vacancy/138717284,,"['Spring Framework', 'Apache Maven', 'JUnit', 'Git', 'Hibernate ORM', 'Java']",4.5
-"Инженер-разработчик (Python, Vibe Coding)",ООО Ак Барс Цифровые Технологии,Не указана,Казань,https://hh.ru/vacancy/138847290,,"['Python', 'PostgreSQL', 'Docker', 'FastAPI', 'SQLAlchemy', 'Scrum', 'Git', 'RabbitMQ', 'API']",4.3
-Frontend-разработчик React,ООО Автодор-Платные Дороги,Не указана,Москва,https://hh.ru/vacancy/138664218,,[],3.5
-Разработчик Java Middle,АО ГК Орбита,Не указана,Москва,https://hh.ru/vacancy/138855506,,[],4.5
-C#/.NET-разработчик,"Программный Продукт, ИТ-компания",Не указана,Москва,https://hh.ru/vacancy/138787497,,"['.NET Framework', 'PostgreSQL', 'Entity Framework', 'Redis', 'MongoDB', 'Elasticsearch', 'Docker', 'Kubernetes', 'Apache Kafka']",4.2
-Стажер по автоматизации и нейросетям,WELCS,Не указана,Москва,https://hh.ru/vacancy/138423693,,"['Python', 'нейросети', 'ChatGPT', 'Claude', 'Промт-инжиниринг', 'Google Sheets', 'Google Apps', 'Ручное тестирование', 'Обучаемость', 'Аналитическое мышление', 'Google Docs', 'Английский\xa0— B1 — Средний']",4.5
-Веб-разработчик,ООО Медсфера,Не указана,"Казань, р-н Кировский",https://hh.ru/vacancy/138842061,,"['HTML', 'CSS3', 'JavaScript', 'PHP', 'Java', 'Python', 'SQL', 'API', 'Linux', 'Git', 'Веб-дизайн', 'Веб-аналитика', 'Навыки презентации', 'Яндекс.Метрика', 'CMS Wordpress', 'Adobe Photoshop', 'Веб-программирование', 'SEO']",
-C#/.NET-разработчик,ООО МУЛЬТИФАКТОР,Не указана,Москва,https://hh.ru/vacancy/138854925,,"['C#', 'Криптография']",4.9
-Python developer,ООО КОМТЕК,Не указана,"Севастополь, Готская улица, 26А/11Г",https://hh.ru/vacancy/138783601,,"['Python', 'Django Framework', 'PostgreSQL', 'REST', 'Git']",3.8
-Golang-разработчик,Secunda,Не указана,Москва,https://hh.ru/vacancy/138142855,,"['PostgreSQL', 'Git', 'Golang', 'Docker', 'Английский язык', 'MySQL', 'MariaDB', 'CI/CD', 'Kafka', 'Redis', 'RabbitMQ', 'HTTP', 'REST API', 'WebSocket', 'DevOps', 'Go от 3-х лет', 'Микросервисная архитектура', 'Проектирование ПО', 'best practices разработка', 'open source компоненты', 'k8s', 'MI-модели']",4.8
-Java-разработчик,АО Единый Агрегатор Торговли,Не указана,Москва,https://hh.ru/vacancy/138669225,,[],5.0
-Middle Frontend-разработчик,Сравни,Не указана,Москва,https://hh.ru/vacancy/137926424,,[],4.1
-Инженер-программист PHP/Битрикс,Навигатор инновационных решений,Не указана,Екатеринбург,https://hh.ru/vacancy/138826469,,[],3.7
-Senior Backend Software Engineer (Python и Go),АИМОР,Не указана,Москва,https://hh.ru/vacancy/136371723,,"['Python', 'Golang']",
-Middle Backend Developer PHP,CATAPULTO.RU,Не указана,Москва,https://hh.ru/vacancy/138645124,,"['PHP', 'MySQL', 'Redis', 'Git', 'JSON API', 'REST API', 'HTTP']",4.3
-PHP-разработчик (Middle),DDPlanet,Не указана,Москва,https://hh.ru/vacancy/138795911,,[],4.2
-AI Engineer /Разработчик продуктов с помощью AI,ООО Продамус,Не указана,Москва,https://hh.ru/vacancy/138779404,,[],4.4
-Android-разработчик,Selecty,Не указана,Казань,https://hh.ru/vacancy/138848693,,"['Android', 'RxJava', 'MVVM', 'MVP']",4.7
-Программист,ООО ГК Севертранс,Не указана,"Химки, Вашутинское шоссе, 20/1",https://hh.ru/vacancy/138828086,,"['принимать решения и за их результаты отвечать самостоятельно', 'Работа в условиях многозадачности', 'C#', 'Windows Forms', 'WPF', 'ООП', 'Entity Framework', 'ADO.NET']",4.7
-Java разработчик (система оплаты проезда),SkillStaff,Не указана,Москва,https://hh.ru/vacancy/138827601,,[],4.9
-"AI-разработчик (fullstack, Claude Code / Cursor)",ООО Сайбертех,Не указана,Москва,https://hh.ru/vacancy/138797900,,"['Git', 'Английский язык', 'Обучение и развитие', 'Linux', 'Docker', 'Claude Code', 'Cursor', 'Codex', 'Английский\xa0— B1 — Средний']",4.1
-Разработчик Java (GigaIDE),SberTech,Не указана,Санкт-Петербург,https://hh.ru/vacancy/138828162,,[],4.1
-Программист 1С (Управление торговлей),Полаир,Не указана,Москва,https://hh.ru/vacancy/136823801,,"['1С:Управление торговлей', '1С']",4.5
-Инженер-программист (Trainee/Junior),ОАО Центр банковских технологий,Не указана,Минск,https://rabota.by/vacancy/138792768?hhtmFrom=vacancy_search_list,,"['Разработка ПО', 'Java', 'VueJS', 'С#', 'ASP.NET']",
-C#/.NET-разработчик (Middle),Правительство Москвы,Не указана,Москва,https://hh.ru/vacancy/138846725,,[],4.1
-Стажер AI-автоматизации (Go + LLM),"""МТС"", Работа в IT",Не указана,Москва,https://hh.ru/vacancy/138707312,,"['Go', 'LLM', 'PostgreSQL']",4.3
-Python-разработчик (middle),KEDOO Entertainment,Не указана,Москва,https://hh.ru/vacancy/138789884,,"['Python', 'SQL', 'MySQL', 'Оптимизация кода', 'PostgreSQL', 'HTTP', 'FastAPI', 'Django Framework', 'REST API', 'JSON', 'Git', 'Clickhouse', 'Docker', 'Linux', 'CI/CD', 'GitLab CI', 'GitHub', 'JavaScript']",
-Python-разработчик,TS Dev,Не указана,Москва,https://hh.ru/vacancy/138663219,,"['Python', 'ООП, SOLID', 'PostgreSQL', 'REST API', 'FastAPI', 'Kafka и RabbitMQ', 'Rust', 'LLM-инструментами', 'отказоустойчивых сервис']",3.8
-Frontend developer (Kaspi Shop),Kaspi.kz,Не указана,Алматы,https://hh.ru/vacancy/138749362,,[],
-Golang-разработчик,IBS,Не указана,Таганрог,https://hh.ru/vacancy/138799278,,['Golang'],4.2
-Старший iOS-разработчик в команду BDUI,АВИТО ТЕХ: разработка,Не указана,Москва,https://hh.ru/vacancy/138852978,,"['iOS', 'Swift']",4.5
-C#/.NET-разработчик,ООО Форца Айти,Не указана,Минск,https://rabota.by/vacancy/138796938?hhtmFrom=vacancy_search_list,,"['C#', '.NET Core', 'MS SQL Server', 'PostgreSQL', 'Английский язык', 'Работа с базами данных']",
-Frontend-разработчик (Vue 3 / React),Amex Development,Не указана,Москва,https://hh.ru/vacancy/138664354,,"['JavaScript', 'TypeScript', 'Vue 3', 'React', 'Pinia', 'Vue Router', 'REST', 'WebSocket', 'Vite', 'HTML', 'CSS', 'Git', 'Vitest', 'Jest', 'Node.js']",5.0
-AI-разработчик / оператор ИИ-агентов (Python),ООО Первая Полиграфическая,Не указана,Казань,https://hh.ru/vacancy/138436989,,['Python'],
-Middle Python Backend Developer,KVINT,Не указана,Одинцово,https://hh.ru/vacancy/138592869,,"['Python', 'MongoDB', 'Системная интеграция', 'Unit Testing', 'Интеграционное тестирование', 'REST API', 'Алгоритмы и структуры данных', 'JSON API', 'Оптимизация кода']",4.7
-Разработчик бэкенд (middle),ООО РТ-Инвест Транспортные Системы,Не указана,Москва,https://hh.ru/vacancy/138723110,,"['Python', 'Linux', 'GraphQL', 'REST API', 'FastAPI']",3.6
-"Senior Fullstack-разработчик (TypeScript, React, Node.js, ИИ-агенты)",Отраслевой центр разработки и внедрения информационных систем / ОЦРВ,Не указана,Москва,https://hh.ru/vacancy/138853868,,"['TypeScript', 'Node.js', 'React']",4.0
-Android разработчик,ООО БалинаСофт,Не указана,Минск,https://rabota.by/vacancy/138826439?hhtmFrom=vacancy_search_list,,"['Git', 'Android', 'Android SDK', 'Java', 'ООП', 'Eclipse', 'JSON API', 'Kotlin']",
-Junior Low-code разработчик (4 часа в день),VERBA-group,Не указана,"Киров, р-н Первомайский",https://hh.ru/vacancy/138659860,,"['JavaScript', 'SQL', 'Деловая коммуникация', 'Работа с базами данных']",4.7
-Angular Developer,ISD Parking Solutions,Не указана,Москва,https://hh.ru/vacancy/138828747,,"['AngularJS', 'TypeScript', 'Angular', 'ООП']",3.7
-Backend-разработчик (C# / .NET),ИП Виноградский Вадим Евгеньевич,Не указана,Нижний Новгород,https://hh.ru/vacancy/138443279,,"['ASP.NET Core', 'REST API', 'Swagger', 'PostgreSQL', 'C#', 'net9', 'RabbitMQ']",
-"Android-разработчик (Kotlin, Jetpack Compose)","Тануки, японский ресторан",Не указана,Москва,https://hh.ru/vacancy/138750399,,"['Android SDK', 'Kotlin', 'Jetpack Compose', 'Kotlin Coroutines', 'Flow / StateFlow', 'MVVM', 'MVI', 'Jetpack Navigation', 'XML', 'ViewBinding', 'Koin', 'REST API', 'Retrofit', 'OkHttp', 'Room', 'DataStore', 'Code review', 'Тестирование мобильных приложений']",4.1
+﻿title,company,city,key_skills,rating
+PHP-разработчик,Альфа-Деньги,Москва,[],4.9
+Ведущий фронтенд-разработчик (Frontend developer),Frank RG,"Москва, р-н Хорошёвский","['TypeScript', 'React', 'Next.js', 'Docker', 'ORACLE', 'PostgreSQL', 'Ember.js', 'Go', 'Git', 'Linux']",4.4
+Middle Python backend developer (FastAPI),ООО РА Дельта,Москва,"['PostgreSQL', 'MySQL', 'Redis', 'MongoDB', 'Flask', 'Scrum', 'REST', 'Kubernetes', 'Docker', 'InfluxDB', 'Jenkins', 'Git', 'FastAPI']",4.3
+Фронт энд разработчик (Frontend),ООО ГрандТитул,Химки,"['JavaScript', 'Git', 'Bootstrap', 'PHP', 'CSS3']",2.9
+C#/.NET-разработчик,Sette,Москва,"['.NET Framework', 'Kafka', 'ASP.NET', 'Разработка ПО', 'Entity Framework', 'С#', 'PostgreSQL', 'T-SQL']",4.5
+.NET разработчик,ПЭК / Офис,Москва,"['SQL', 'Git', '.NET', 'AI', 'С#']",4.0
+Java-разработчик,ООО ВебРайз,Москва,"['Java', 'SQL', 'Spring Framework', 'PostgreSQL', 'Apache Kafka', 'REST API', 'JSON API']",
+Java-разработчик,Utrace,"Москва, р-н Южнопортовый","['Spring Framework', 'Apache Maven', 'JUnit', 'Git', 'Hibernate ORM', 'Java']",4.5
+Middle Python разработчик,ООО Техностар,Санкт-Петербург,"['OpenCV', 'Python', 'FastAPI', 'Redis', 'PostgreSQL']",3.1
+"Инженер-разработчик (Python, Vibe Coding)",ООО Ак Барс Цифровые Технологии,Казань,"['Python', 'PostgreSQL', 'Docker', 'FastAPI', 'SQLAlchemy', 'Scrum', 'Git', 'RabbitMQ', 'API']",4.3
+Frontend-разработчик React,ООО Автодор-Платные Дороги,Москва,[],3.5
+Стажер по автоматизации и нейросетям,WELCS,Москва,"['Python', 'нейросети', 'ChatGPT', 'Claude', 'Промт-инжиниринг', 'Google Sheets', 'Google Apps', 'Ручное тестирование', 'Обучаемость', 'Аналитическое мышление', 'Google Docs', 'Английский\xa0— B1 — Средний']",4.5
+Разработчик Java Middle,АО ГК Орбита,Москва,[],4.5
+C#/.NET-разработчик,"Программный Продукт, ИТ-компания",Москва,"['.NET Framework', 'PostgreSQL', 'Entity Framework', 'Redis', 'MongoDB', 'Elasticsearch', 'Docker', 'Kubernetes', 'Apache Kafka']",4.2
+Веб-разработчик,ООО Медсфера,"Казань, р-н Кировский","['HTML', 'CSS3', 'JavaScript', 'PHP', 'Java', 'Python', 'SQL', 'API', 'Linux', 'Git', 'Веб-дизайн', 'Веб-аналитика', 'Навыки презентации', 'Яндекс.Метрика', 'CMS Wordpress', 'Adobe Photoshop', 'Веб-программирование', 'SEO']",
+C#/.NET-разработчик,ООО МУЛЬТИФАКТОР,Москва,"['C#', 'Криптография']",4.9
+Python developer,ООО КОМТЕК,"Севастополь, Готская улица, 26А/11Г","['Python', 'Django Framework', 'PostgreSQL', 'REST', 'Git']",3.8
+Java-разработчик,АО Единый Агрегатор Торговли,Москва,[],5.0
+Golang-разработчик,Secunda,Москва,"['PostgreSQL', 'Git', 'Golang', 'Docker', 'Английский язык', 'MySQL', 'MariaDB', 'CI/CD', 'Kafka', 'Redis', 'RabbitMQ', 'HTTP', 'REST API', 'WebSocket', 'DevOps', 'Go от 3-х лет', 'Микросервисная архитектура', 'Проектирование ПО', 'best practices разработка', 'open source компоненты', 'k8s', 'MI-модели']",4.8
+Инженер-программист PHP/Битрикс,Навигатор инновационных решений,Екатеринбург,[],3.7
+Middle Frontend-разработчик,Сравни,Москва,[],4.1
+Senior Backend Software Engineer (Python и Go),АИМОР,Москва,"['Python', 'Golang']",
+Middle Backend Developer PHP,CATAPULTO.RU,Москва,"['PHP', 'MySQL', 'Redis', 'Git', 'JSON API', 'REST API', 'HTTP']",4.3
+PHP-разработчик (Middle),DDPlanet,Москва,[],
+Android-разработчик,Selecty,Казань,"['Android', 'RxJava', 'MVVM', 'MVP']",4.7
+AI Engineer /Разработчик продуктов с помощью AI,ООО Продамус,Москва,[],4.4
+Программист,ООО ГК Севертранс,"Химки, Вашутинское шоссе, 20/1","['принимать решения и за их результаты отвечать самостоятельно', 'Работа в условиях многозадачности', 'C#', 'Windows Forms', 'WPF', 'ООП', 'Entity Framework', 'ADO.NET']",4.7
+Java разработчик (система оплаты проезда),SkillStaff,Москва,[],4.9
+"AI-разработчик (fullstack, Claude Code / Cursor)",ООО Сайбертех,Москва,"['Git', 'Английский язык', 'Обучение и развитие', 'Linux', 'Docker', 'Claude Code', 'Cursor', 'Codex', 'Английский\xa0— B1 — Средний']",4.1
+Программист 1С (Управление торговлей),Полаир,Москва,"['1С:Управление торговлей', '1С']",4.5
+Стажер AI-автоматизации (Go + LLM),"""МТС"", Работа в IT",Москва,"['Go', 'LLM', 'PostgreSQL']",4.3
+Инженер-программист (Trainee/Junior),ОАО Центр банковских технологий,Минск,"['Разработка ПО', 'Java', 'VueJS', 'С#', 'ASP.NET']",
+Python-разработчик,TS Dev,Москва,"['Python', 'ООП, SOLID', 'PostgreSQL', 'REST API', 'FastAPI', 'Kafka и RabbitMQ', 'Rust', 'LLM-инструментами', 'отказоустойчивых сервис']",3.8
+Python-разработчик (middle),KEDOO Entertainment,Москва,"['Python', 'SQL', 'MySQL', 'Оптимизация кода', 'PostgreSQL', 'HTTP', 'FastAPI', 'Django Framework', 'REST API', 'JSON', 'Git', 'Clickhouse', 'Docker', 'Linux', 'CI/CD', 'GitLab CI', 'GitHub', 'JavaScript']",
+C#/.NET-разработчик (Middle),Правительство Москвы,Москва,[],4.1
+Разработчик Java (GigaIDE),SberTech,Санкт-Петербург,[],4.1
+Старший iOS-разработчик в команду BDUI,АВИТО ТЕХ: разработка,Москва,"['iOS', 'Swift']",4.5
+Frontend developer (Kaspi Shop),Kaspi.kz,Алматы,[],
+Golang-разработчик,IBS,Таганрог,['Golang'],4.2
+C#/.NET-разработчик,ООО Форца Айти,Минск,"['C#', '.NET Core', 'MS SQL Server', 'PostgreSQL', 'Английский язык', 'Работа с базами данных']",
+Frontend-разработчик (Vue 3 / React),Amex Development,Москва,"['JavaScript', 'TypeScript', 'Vue 3', 'React', 'Pinia', 'Vue Router', 'REST', 'WebSocket', 'Vite', 'HTML', 'CSS', 'Git', 'Vitest', 'Jest', 'Node.js']",5.0
+AI-разработчик / оператор ИИ-агентов (Python),ООО Первая Полиграфическая,Казань,['Python'],
+Middle Python Backend Developer,KVINT,Одинцово,"['Python', 'MongoDB', 'Системная интеграция', 'Unit Testing', 'Интеграционное тестирование', 'REST API', 'Алгоритмы и структуры данных', 'JSON API', 'Оптимизация кода']",4.7
+Разработчик бэкенд (middle),ООО РТ-Инвест Транспортные Системы,Москва,"['Python', 'Linux', 'GraphQL', 'REST API', 'FastAPI']",3.6
+Angular Developer,ISD Parking Solutions,Москва,"['AngularJS', 'TypeScript', 'Angular', 'ООП']",3.7
+"Senior Fullstack-разработчик (TypeScript, React, Node.js, ИИ-агенты)",Отраслевой центр разработки и внедрения информационных систем / ОЦРВ,Москва,"['TypeScript', 'Node.js', 'React']",4.0
+Junior Low-code разработчик (4 часа в день),VERBA-group,"Киров, р-н Первомайский","['JavaScript', 'SQL', 'Деловая коммуникация', 'Работа с базами данных']",4.7
+Backend-разработчик (C# / .NET),ИП Виноградский Вадим Евгеньевич,Нижний Новгород,"['ASP.NET Core', 'REST API', 'Swagger', 'PostgreSQL', 'C#', 'net9', 'RabbitMQ']",
+Android разработчик,ООО БалинаСофт,Минск,"['Git', 'Android', 'Android SDK', 'Java', 'ООП', 'Eclipse', 'JSON API', 'Kotlin']",
+Программист 1С,ООО Альфамедэкс,"Москва, р-н Замоскворечье",[],2.5
