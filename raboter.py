@@ -235,8 +235,8 @@ class Rabota:
             
             if description_el:
                 description = await description_el.inner_text()
-                details['description'] = description.strip()
-                logger.info(f"📝 Описание получено ({len(details['description'])} символов)")
+                # details['description'] = description.strip()
+                logger.info(f"Описание получено ({len(details['description'])} символов)")
             else:
                 logger.warning("Описание не найдено")
 

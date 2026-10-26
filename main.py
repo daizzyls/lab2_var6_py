@@ -9,33 +9,36 @@ logger = get_logger("Main")
 
 
 async def main():
-    logger.info("=" * 60)
-    logger.info("ЗАПУСК ПАРСЕРА ВАКАНСИЙ RABOTA.BY")
-    logger.info("=" * 60)
+    print("=" * 40)
+    logger.info("loading parser for RABOTA.BY")
+    print("=" * 40)
     
     async with Rabota(headless=False) as parser:
         vacancies = await parser.parse_vacancies()
         
         if not vacancies:
-            logger.warning(" Не удалось собрать вакансии!")
+            logger.warning(" data could not be found!")
             return
         
-        logger.info(f"Собрано вакансий: {len(vacancies)}")
+        logger.info(f"Found vakancies: {len(vacancies)}")
         
-       
+        
         df = pd.DataFrame(vacancies)
-        logger.info(f"Создана таблица: {df.shape[0]} строк, {df.shape[1]} столбцов")
+        logger.info(f"Created TABLE: {df.shape[0]} rows, {df.shape[1]} cols")
         
         df = df.drop_duplicates(subset=['link'])
-        logger.info(f"После удаления дубликатов: {len(df)} строк")
+        logger.info(f"Deleted doubles: {len(df)} rows")
+
+        columns_to_drop = ['link', 'description', 'salary']
+        df = df.drop(columns=columns_to_drop)
         
         df.to_csv('vacancies.csv', index=False, encoding='utf-8-sig')
-        logger.info("✅ Таблица сохранена в vacancies.csv")
+        logger.info("Table saved to vacancies.csv")
         
 
         logger.info(f"\n{df.head()}")
     
-    logger.info("ПРОГРАММА УСПЕШНО ЗАВЕРШЕНА")
+    logger.info("Program seccesefuly stoped")
 
 
 if __name__ == "__main__":
